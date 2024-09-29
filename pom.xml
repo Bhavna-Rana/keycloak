@@ -36,7 +36,7 @@
 
     <properties>
         <!-- Maven -->
-        <maven.version>3.9.8</maven.version>
+        <maven.version>3.9.9</maven.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <maven.compiler.release>17</maven.compiler.release>
@@ -278,7 +278,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>
